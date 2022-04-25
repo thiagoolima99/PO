@@ -1,15 +1,6 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""
-    Árvore AVL em Python
-    
-    Copyright (c) 2009 Vindemiatrix Almuredin.
-    É dada permissão para copiar, distribuir e/ou modificar este documento
-    sob os termos da Licença de Documentação FAIL,
-    Versão 97.545.668.112.666.002 Build 69 Release 42;
-    Uma cópia da licença talvez esteja inclusa na seção entitulada
-    "Licença de Documentação FAIL".
-"""
+
 
 class No:
     def __init__(self, data):
